@@ -20,6 +20,16 @@
 
 
 * [Ask HN: Describing skills and competencies in a resume?](https://news.ycombinator.com/item?id=12127946 "Ask HN: Describing skills and competencies in a resume?") - Hacker News
+
+
+
 * [A requiem for Facebook Paper](http://www.networkworld.com/article/3091826/software/a-requiem-for-facebook-paper.html "A requiem for Facebook Paper") - Fredric Paul
+
+
+* [Web Design in 4 Minutes](http://jgthms.com/web-design-in-4-minutes/ "Web Design in 4 Minutes") - Jeremy Thomas
+
+* [The Typography of Stranger Things](https://blog.nelsoncash.com/the-typography-of-stranger-things-e35771f40d31#.r3klcu6x4 "The Typography of Stranger Things") - Sarah Gless
+
+
 
 
