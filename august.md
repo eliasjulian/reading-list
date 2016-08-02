@@ -24,6 +24,9 @@
 
 * [The Illusion Of Life: An SVG Animation Case Study](https://www.smashingmagazine.com/2016/07/an-svg-animation-case-study/ "The Illusion Of Life: An SVG Animation Case Study") - Michael Ngo
 
+* [The Anatomy of a Credit Card Form](https://blog.marvelapp.com/the-anatomy-of-a-credit-card-form-2/ "The Anatomy of a Credit Card Form") - Gabriel Tomescu
+
+
 
 
 
