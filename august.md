@@ -3,6 +3,22 @@
 
 
 
+###Week of August 8
+
+
+* [Cap Watkins: Audacity to change company process](https://hired.fm/seasons/3/episodes/6 "Cap Watkins: Audacity to change company process") - Cameron Moll
+
+* [MailChimp - What's In Store](http://mailchimp.com/whats-in-store/ "What's in store")
+
+* [Marie Kondo and the Ruthless War on Stuff](http://www.nytimes.com/2016/07/10/magazine/marie-kondo-and-the-ruthless-war-on-stuff.html "Marie Kondo and the Ruthless War on Stuff") - Taffy Brodesser-Akner
+
+* [What happens when you have a beard and look straight up](http://www.thepoke.co.uk/2016/08/08/happens-beard-look-straight/ "What happens when you have a beard and look straight up")
+
+* [Hello From the Other Side of the Bar](http://goodbeerhunting.com/blog/2016/8/2/gbh-in-residence-from-the-other-side-of-the-bar "Hello From the Other Side of the Bar") - Michael Kiser
+
+
+
+
 
 ###Week of August 1
 
