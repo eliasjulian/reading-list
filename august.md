@@ -12,6 +12,8 @@
 
 * [Mule Design’s Erika Hall talks interactive design and research](https://blog.intercom.io/mule-designs-erika-hall-interactive-design/ "Mule Design’s Erika Hall talks interactive design and research") - Stewart Scott-Curran
 
+* [Prototyping for Brick & Mortar Stores](https://medium.com/framer-prototyping/prototyping-for-brick-and-mortar-stores-70131e3b2d96#.d1dc8hmzu "Prototyping for Brick & Mortar Stores") - Elliot Nolten
+
 * [Face to Interface](http://reallifemag.com/face-to-interface/ "Face to Interface") - Jenny Davis
 
 * [Cap Watkins: Audacity to change company process](https://hired.fm/seasons/3/episodes/6 "Cap Watkins: Audacity to change company process") - Cameron Moll
