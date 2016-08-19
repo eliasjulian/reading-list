@@ -3,6 +3,24 @@
 
 
 
+
+###Week of August 15
+
+
+* [Cantina Talk: We’ve Got Rogue One Reveals Galore](http://www.wired.com/2016/08/cantina-talk-16/ "Cantina Talk: We’ve Got Rogue One Reveals Galore") - Graeme McMillan
+
+* [No Excuses: Google Just Made Voting a Little Easier](http://www.wired.com/2016/08/no-excuses-google-just-made-voting-little-easier/ "No Excuses: Google Just Made Voting a Little Easier") - Emma Grey Ellis
+
+* [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning "Top Deep Learning Projects") - aymericdamien
+
+* [Saudi Millennials Don’t Use Their Phones Like We Do](https://backchannel.com/the-human-codebreakers-ddb4ca9b2dff#.nvcz4asx4 "Saudi Millennials Don’t Use Their Phones Like We Do") - Jessi Hempel
+
+
+
+
+
+
+
 ###Week of August 8
 
 
