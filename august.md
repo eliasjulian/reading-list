@@ -4,6 +4,22 @@
 
 
 
+###Week of August 22
+
+
+* [The Next Phase Of UX: Designing Chatbot Personalities](https://www.fastcodesign.com/3054934/the-next-phase-of-ux-designing-chatbot-personalities "The Next Phase Of UX: Designing Chatbot Personalities") - John Pavlus
+
+* [How Frank Ocean Conquered the World](http://www.vice.com/read/the-swagger-and-sway-behind-frank-ocean-beyonc-kanye-west "How Frank Ocean Conquered the World") - Mikelle Street
+
+* [Linux Took Over the Web. Now, It’s Taking Over the World](http://www.wired.com/2016/08/linux-took-web-now-taking-world/ "Linux Took Over the Web. Now, It’s Taking Over the World") - Klint Finley
+
+
+
+
+
+
+
+
 ###Week of August 15
 
 
