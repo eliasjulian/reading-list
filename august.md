@@ -3,6 +3,22 @@
 
 
 
+###Week of August 29
+
+Super Harris Wittels themed this week for some reason. Just can't get enough of that guy. RIP.
+
+* Comedy Bang Bang - Farts and Procreation
+ 
+	* [episode 1](https://overcast.fm/+DYHBmEF2g)
+	* [episode 2](https://overcast.fm/+DYHCdRWTY)
+	* [episode 3](https://overcast.fm/+DYHAyU8jA)
+	* [episode 4](https://overcast.fm/+DYHAyU8jA)
+	
+* [Harris' Foam Corner](https://youtu.be/cMO04Xl9Odc)
+
+
+
+
 
 ###Week of August 22
 
