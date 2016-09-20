@@ -5,8 +5,13 @@ A log of things I'm reading and find interesting. Not in any particular order.
 
 ---
 
-* [July 2016](https://github.com/eliasjulian/reading-list/blob/master/july.md "July Reading List")
+###2016
 
-* [August 2016](https://github.com/eliasjulian/reading-list/blob/master/august.md "August Reading List")
+* [July](https://github.com/eliasjulian/reading-list/blob/master/july.md "July Reading List")
+
+* [August](https://github.com/eliasjulian/reading-list/blob/master/august.md "August Reading List")
+
+* [September](https://github.com/eliasjulian/reading-list/blob/master/september.md "September Reading List")
+
 
 
