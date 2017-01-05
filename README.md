@@ -3,7 +3,14 @@
 A log of things I'm reading and find interesting. Not in any particular order.
 
 
--
+
+###2017
+
+* [January](https://github.com/eliasjulian/reading-list/blob/master/january.md "January")
+
+
+
+
 
 ###2016
 
