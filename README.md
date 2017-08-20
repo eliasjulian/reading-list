@@ -1,10 +1,10 @@
-#Reading List
+# Reading List
 
 A log of things I'm reading and find interesting. Not in any particular order.
 
 
 
-###2017
+### 2017
 
 * [January](https://github.com/eliasjulian/reading-list/blob/master/january.md "January")
 
@@ -12,7 +12,7 @@ A log of things I'm reading and find interesting. Not in any particular order.
 
 
 
-###2016
+### 2016
 
 * [July](https://github.com/eliasjulian/reading-list/blob/master/july.md "July Reading List")
 
