@@ -1,6 +1,6 @@
-#January '17
+# January '17
 
-###Week(s) of 1-15
+### Week(s) of 1-15
 
 * [From Tape Drives to Memory Orbs, the Data Formats of Star Wars Suck](http://motherboard.vice.com/read/the-disk-formats-of-star-wars-rogue-one-spoilers "From Tape Drives to Memory Orbs, the Data Formats of Star Wars Suck") - Sarah Jeong
 
