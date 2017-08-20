@@ -8,6 +8,7 @@ A log of things I'm reading and find interesting. Not in any particular order.
 
 * [January](https://github.com/eliasjulian/reading-list/blob/master/january.md "January")
 
+* [August](https://github.com/eliasjulian/reading-list/blob/master/august17.md "August")
 
 
 
