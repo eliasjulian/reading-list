@@ -1,6 +1,6 @@
 # Reading List
 
-A log of things I'm reading and find interesting. Not in any particular order.
+A log of things I'm reading 📚 and find interesting. Not in any particular order ✨🎉
 
 
 
